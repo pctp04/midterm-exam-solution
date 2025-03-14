@@ -23,6 +23,7 @@ function updateTask(id, name, description) {
     console.log('Task updated successfully');
 }
 
+// Test the functions
 addTask(1, 'Task 1', 'This is task 1');
 addTask(2, 'Task 2', 'This is task 2');
 addTask(3, 'Task 3', 'This is task 3');
